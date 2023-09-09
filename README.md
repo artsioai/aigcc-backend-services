@@ -8,15 +8,27 @@ This document describe high level of relationships and guideline of AIGCC produc
 
 
 ## Tier 3 - Application
-- aigcc-apps-service
+* aigcc-apps-service
+  * chat
+  * chatgpt
+  * video-indexer
+  * clip-flow
+  * clips
 
 ## Tier 2 - Commonware
-- aigcc-asset-service
-- aigcc-llmindex-service
-- aigcc-artgen-service
+* aigcc-asset-service
+* aigcc-llmindex-service
+* aigcc-artgen-service
+  * generate-pdf
+  * generate-video
+  * ... (artsio imagegens)
 
 ## Tier 1 - Platform
-- aigcc-platform-service
+* aigcc-platform-service
+  * user
+  * client
+  * log
+  * subscribe
 
 ## Tier 0 - Data & Cloud
 - DynamoDB
