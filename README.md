@@ -8,7 +8,7 @@ This document describe high level of relationships and guideline of AIGCC produc
 
 
 ## Tier 3 - Application
-- aigcc-app-service
+- aigcc-apps-service
 
 ## Tier 2 - Commonware
 - aigcc-asset-service
