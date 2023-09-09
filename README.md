@@ -26,6 +26,7 @@ This document describe high level of relationships and guideline of AIGCC produc
 
 ## Tier 1 - Platform
 * aigcc-platform-service
+  * domains (customers)
   * user
   * client
   * log
