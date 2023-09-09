@@ -15,5 +15,9 @@ This document describe high level of relationships and guideline of AIGCC produc
 - aigcc-llmindex-service
 - aigcc-artgen-service
 
-## Tier 1 - Data & Platform
+## Tier 1 - Platform
 - aigcc-platform-service
+
+## Tier 0 - Data & Cloud
+- DynamoDB
+- AWS Services
