@@ -21,6 +21,7 @@ This document describe high level of relationships and guideline of AIGCC produc
 * aigcc-artgen-service
   * generate-pdf
   * generate-video
+  * imo
   * ... (artsio imagegens)
 
 ## Tier 1 - Platform
