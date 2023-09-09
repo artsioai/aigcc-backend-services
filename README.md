@@ -1,8 +1,10 @@
-# aigcc-backend-services
+# AIGCC Production Services
 
-This document describe high level of relationships and guideline of AIGCC micro-services.
+This document describe high level of relationships and guideline of AIGCC production micro-services.
 
-**Golden Rules** : A service must only make REST calls to peer services or lower-tier services.
+**Golden Rules** :
+- A service must only make REST calls to peer services or lower-tier services.
+- Demo project can copy / clone from the production services
 
 
 ## Tier 3 - Application
