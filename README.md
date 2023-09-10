@@ -17,7 +17,7 @@ This document describe high level of relationships and guideline of AIGCC produc
 
 ## Tier 2 - Commonware
 * aigcc-asset-service
-* aigcc-llmindex-service
+* aigcc-llmindex-service ✔️
 * aigcc-artgen-service
   * generate-pdf
   * generate-video
