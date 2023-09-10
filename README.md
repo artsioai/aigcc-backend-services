@@ -8,7 +8,7 @@ This document describe high level of relationships and guideline of AIGCC produc
 
 
 ## Tier 3 - Application
-* aigcc-apps-service
+* aigcc-apps-service ✔️
   * chat
   * chatgpt
   * video-indexer
@@ -25,7 +25,7 @@ This document describe high level of relationships and guideline of AIGCC produc
   * ... (artsio imagegens)
 
 ## Tier 1 - Platform
-* aigcc-platform-service
+* aigcc-platform-service ✔️
   * domains (customers)
   * user
   * client
