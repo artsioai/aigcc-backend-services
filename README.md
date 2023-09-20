@@ -16,6 +16,8 @@ This document describe high level of relationships and guideline of AIGCC produc
   * auto-clip-flow
   * clips
   * discord
+  * client-tiandixian-api
+  * blockfish-api
 
 ## Tier 2 - Commonware
 * aigcc-asset-service ✔️
