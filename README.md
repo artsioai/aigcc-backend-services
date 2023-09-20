@@ -15,6 +15,7 @@ This document describe high level of relationships and guideline of AIGCC produc
   * clip-flow
   * auto-clip-flow
   * clips
+  * discord
 
 ## Tier 2 - Commonware
 * aigcc-asset-service ✔️
