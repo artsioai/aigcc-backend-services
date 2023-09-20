@@ -13,16 +13,16 @@ This document describe high level of relationships and guideline of AIGCC produc
   * chatgpt
   * video-indexer
   * clip-flow
+  * auto-clip-flow
   * clips
 
 ## Tier 2 - Commonware
 * aigcc-asset-service ✔️
 * aigcc-llmindex-service ✔️
-* aigcc-artgen-service
-  * generate-pdf
-  * generate-video
-  * imo
-  * ... (artsio imagegens)
+* aigcc-artgen-*-service
+  * image2video (imo)
+  * text2image (artsio)
+  * text2music (musicgen)
 
 ## Tier 1 - Platform
 * aigcc-platform-service ✔️
