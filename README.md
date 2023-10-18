@@ -34,6 +34,7 @@ This document describe high level of relationships and guideline of AIGCC produc
   * client
   * log
   * subscribe
+  * media
 
 ## Tier 0 - Data & Cloud
 - DynamoDB
